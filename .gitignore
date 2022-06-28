@@ -9,3 +9,5 @@ catboost_info/
 !requirements.txt
 *docx
 *doc
+.virtual_documents
+._classifiers.ipynb
