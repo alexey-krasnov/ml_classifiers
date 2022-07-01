@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Here, I'm comparing the most popular and presice classification algorithms in the different situation.
+> Here, I'm comparing the most popular and precise classification algorithms in the different situation.
 
 ##  Prerequisites
 
