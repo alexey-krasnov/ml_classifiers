@@ -17,7 +17,7 @@ This package requires:
 - [Scikit-learn](https://scikit-learn.org/)
 - [Xgboost](https://xgboost.readthedocs.io/en/stable/)
 - [Catboost](https://catboost.ai/)
-- [Ligthgbm](https://lightgbm.readthedocs.io/en/latest/)
+- [Lightgbm](https://lightgbm.readthedocs.io/en/latest/)
 
 ## Usage
 
