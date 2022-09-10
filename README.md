@@ -22,7 +22,9 @@ This package requires:
 ## Usage
 
 Open any Jupyter lab file and run cell by cell. Note, that file `feature_scaling_technique.ipynb` requires `titanic_data_cleaning.py` in the same directory for preparing [Titanic](https://www.kaggle.com/competitions/titanic/data) train dataset.
- 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alexey-krasnov/ml_classifiers/blob/master/classifiers.ipynb)
+
 
 ## Author
 
